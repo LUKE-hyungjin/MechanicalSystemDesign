@@ -1,2 +1,2 @@
-# MechanicalSystemDesign
+#머신러닝을 이용한 로봇팔 고장진단
 기계종합설계 프로젝트
